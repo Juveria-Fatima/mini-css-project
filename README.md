@@ -1,0 +1,1 @@
+Sidebar Navigation Using HTML & CSS is a mini front-end project that demonstrates creating a responsive sidebar menu using only HTML and CSS. The sidebar is toggled using the checkbox technique, allowing users to open and close the navigation menu without JavaScript. The project highlights concepts like layout design, CSS positioning, transitions, and responsive UI development.
